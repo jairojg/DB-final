@@ -30,3 +30,7 @@
     11.	Las pajillas que no se utilizan se pueden utilizar para venta por lo cual debe estar registrado toda la información de la venta para temas de garantías.
 
     12.	Después de un parto y hasta el destete las vacas Madres son ordeñadas por lo que se debe llevar un registro de los litros que produce cada una de ellas lo cual servirá como parámetro y/o comprobación de su genética de vaca lechera.
+
+# dependencias 
+
+    - ameno dorime interino
